@@ -1,28 +1,32 @@
 ---
 layout: page
-title: Zhuang Ma
-description: Zhuang Ma的个人简介。
+title: About
+description: 打码改变世界
 keywords: Zhuang Ma, 马壮
+comments: true
+menu: 关于
 permalink: /about/
 ---
 
-**Software Engineer at [Sogou, Inc.](http://www.sogou.com)**
+我是马壮，码而生，码而立。
 
-Beijing City, China \| Computer Software
-  
-*Education:* Wuhan Institute of Technology
+仰慕「优雅编码的艺术」。
 
-scholar, CS/IT
+坚信熟能生巧，努力改变人生。
 
-*Contact:* `print '%s@%s' % ('ChumpMa', 'gmail.com')  #via Python`
+## 联系
 
-*Social:*  [github](http://github.com/mzlogin) \| [linkedin](http://www.linkedin.com/in/mazhuang) \| [weibo](http://weibo.com/mzlogin) \| [douban](http://www.douban.com/people/freedim/) \| [blog](http://mazhuang.org)
-    
-```c++
-#include <iostream>
-int main()
-{
-	std::cout << "Hello, friends!" << std::endl;
-	return 0;
-}
-```
+{% for website in site.data.social %}
+* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+{% endfor %}
+
+## Skill Keywords
+
+{% for category in site.data.skills %}
+### {{ category.name }}
+<div class="btn-inline">
+{% for keyword in category.keywords %}
+<button class="btn btn-outline" type="button">{{ keyword }}</button>
+{% endfor %}
+</div>
+{% endfor %}

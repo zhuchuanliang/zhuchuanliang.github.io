@@ -6,27 +6,20 @@ description: Markdown 常用语法示例。
 keywords: Markdown
 ---
 
-### 目录
+**目录**
 
-* [超链接](#超链接)
-* [列表](#列表)
-* [强调](#强调)
-* [标题](#标题)
-* [表格](#表格)
-* [代码块](#代码块)
-* [图片](#图片)
-* [锚点](#锚点)
-* [Emoji](#emoji)
+* TOC
+{:toc}
 
 ### 超链接
 
 ```
-[码志](http://mazhuang.org)
+[靠谱-ing](http://mazhuang.org)
 
 <http://mazhuang.org>
 ```
 
-[码志](http://mazhuang.org)  
+[靠谱-ing](http://mazhuang.org)  
 
 <http://mazhuang.org>
 
@@ -83,55 +76,12 @@ keywords: Markdown
 
 ```
 # 一级标题
-
 ## 二级标题
-
 ### 三级标题
-
 #### 四级标题
-
 ##### 五级标题
-
 ###### 六级标题
-
-##没有空格的标题
-
-## 不空行的标题一
-### 不空行的标题二
-
-### 尾部有井号的标题 ###
-
-### 尾部井号和空格穿插的标题 # # #
-
-### 尾部的井号后面还有空格的标题 ###  
-
-### 尾部井号和空格穿插最后是空格的标题 # #  #    
 ```
-
-# 一级标题
-
-## 二级标题
-
-### 三级标题
-
-#### 四级标题
-
-##### 五级标题
-
-###### 六级标题
-
-##没有空格的标题
-
-## 不空行的标题一
-### 不空行的标题二
-
-### 尾部有井号的标题 ###
-
-### 尾部井号和空格穿插的标题 # # #
-
-### 尾部的井号后面还有空格的标题 ###  
-
-### 尾部井号和空格穿插最后是空格的标题 # #  #    
 
 Tips: `#` 与标题中间要加空格。
 
@@ -157,11 +107,13 @@ Tips: `#` 与标题中间要加空格。
 print 'Hello, World!'
 ```
 
-```
-{% raw %}
-{% site.author %}
-{% endraw %}
-```
+1. list item1
+
+2. list item2
+
+   ```python
+   print 'hello'
+   ```
 
 ### 图片
 
@@ -184,3 +136,9 @@ print 'Hello, World!'
 :camel:
 :blush:
 :smile:
+
+### Footnotes
+
+This is a text with footnote[^1].
+
+[^1]: Here is the footnote 1 definition.

@@ -1,11 +1,15 @@
 ---
 layout: page
-title: 友情链接
-description: 朋友们的博客和主页
+title: Links
+description: 没有链接的博客是孤独的
 keywords: 友情链接
+comments: true
+menu: 链接
 permalink: /links/
 ---
 
-<ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
-</ul>
+> God made relatives. Thank God we can choose our friends.
+
+{% for link in site.data.links %}
+* [{{ link.name }}]({{ link.url }})
+{% endfor %}

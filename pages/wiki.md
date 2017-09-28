@@ -1,15 +1,19 @@
 ---
-layout: default
+layout: page
 title: Wiki
-description: 个人知识管理，随手笔记更新备忘。
+description: 人越学越觉得自己无知
 keywords: 维基, Wiki
+comments: false
+menu: 维基
 permalink: /wiki/
 ---
 
-<ul>
+> 记多少命令和快捷键会让脑袋爆炸呢？
+
+<ul class="listing">
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" %}
-<li><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
+<li class="listing-item"><a href="{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
