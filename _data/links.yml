@@ -7,8 +7,17 @@
 - name: Blog Something
   url: http://chenxiaoyoyo.github.io
 
-- name: 码志
-  url: http://mazhuang.org
-
 - name: Think Game
   url: https://game-coder.com
+
+- name: 牛客网
+  url: https://www.nowcoder.com
+  
+- name: PUDN
+  url: http://www.pudn.com/
+
+- name: leetcode
+  url: https://leetcode.com/
+
+- name: 慕课网
+  url: http://www.icourse163.org/
