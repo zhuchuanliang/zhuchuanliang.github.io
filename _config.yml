@@ -101,8 +101,8 @@ gitment:
 gitalk:
     owner: zhuchuanliang
     repo: 博客评论
-    clientID: e57db18bee8d1a963bc3
-    clientSecret: 9a2b13fe513785e403a85f7bab002451c5b6e606
+    clientID: 71d8f3001aa89ab60c35
+    clientSecret: 0172c3ffa295c05c0524864bf7f8f4e8023437be
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
