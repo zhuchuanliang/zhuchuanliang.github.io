@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title: HashMap，HashTable和HashSet的区别介绍
+title: HashMap、HashTable和HashSet的区别介绍
 categories: Java
-description: HashMap,HashTable和HashSet的区别介绍 
+description: HashMap、HashTable和HashSet的区别介绍 
 keywords: HashMap
 ---
 
-##HashMap，HashTable和HashSet的区别介绍##
+
 
 两者都是基于哈希表的 Map 接口的实现
 1.HashMap介绍
