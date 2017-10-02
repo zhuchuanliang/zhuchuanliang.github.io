@@ -32,7 +32,7 @@ inverse=”true” 表示对集合对象的修改不会被反映到数据库中�
    
 注：  
 
-    单向one-to-many关联关系中，不可以设置inverse="true",因为被控方的映射文件中没有主控方的信息。</br>
+    单向one-to-many关联关系中，不可以设置inverse="true",因为被控方的映射文件中没有主控方的信息。
 
    多对多： 属性在独立表中。inverse属性的默认值为false。在多对多关联关系中，关系的两端inverse不能都设为false,即默认的情况是不对的，如果都设为false,在做插入操作时会导致在关系表中插入两次关系。也不能都设为 true，如果都设为true,任何操作都不会触发对关系表的操作。因此在任意一方设置inverse=true，另一方inverse=false。  
    
