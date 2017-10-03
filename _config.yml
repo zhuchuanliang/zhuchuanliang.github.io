@@ -100,7 +100,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhuchuanliang
-    repo: zhuchuanliang
+    repo: zhuchuanliang.github.io
     clientID: e57db18bee8d1a963bc3
     clientSecret: 9a2b13fe513785e403a85f7bab002451c5b6e606
 # 在使用其它评论组件时可点击显示 Disqus
