@@ -29,23 +29,23 @@ email: chuanliangzhu@163.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Type
 
   -
     href: /wiki/
-    label: 维基
+    label: Demo
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
