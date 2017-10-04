@@ -17,7 +17,7 @@
 
 **[在线预览 &rarr;](http://zhuchuanliang.github.io)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://zhuchuanliang.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
