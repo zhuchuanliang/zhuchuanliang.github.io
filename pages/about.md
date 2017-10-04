@@ -14,13 +14,16 @@ permalink: /about/
 
 坚信越努力，越幸运，努力可以改变人生。  
 
-**欢迎关注我哦**
-![微信][1]
-![QQ][2]
+**欢迎关注我哦**  
+  
+[1]: http://images2017.cnblogs.com/blog/1161753/201710/1161753-20171004141054365-1663016846.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微信  
+[2]: http://images2017.cnblogs.com/blog/1161753/201710/1161753-20171004141232396-1196985087.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ  
 
 
-  [1]: http://images2017.cnblogs.com/blog/1161753/201710/1161753-20171004141054365-1663016846.png
-  [2]: http://images2017.cnblogs.com/blog/1161753/201710/1161753-20171004141232396-1196985087.png
+  
+  
 
 
 
