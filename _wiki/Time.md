@@ -8,11 +8,10 @@ keywords: JSP
 
 ## 源码
 
-  <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <head>
     <title> 倒计时效果 </title>
-    <script language="JavaScript">
-    
+    <script language="JavaScript">   
     var startTime = new Date();
     var EndTime=startTime.getTime()+20*60*1000;
     function GetRTime(){
