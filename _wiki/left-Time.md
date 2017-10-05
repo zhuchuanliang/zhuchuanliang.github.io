@@ -6,7 +6,8 @@ description: JSP的倒计时小程序
 keywords: JSP
 ---
 
-# 源代码
+## 源代码 ##
+
     <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <head>
     <title> 倒计时效果 </title>
@@ -36,9 +37,6 @@ keywords: JSP
     <body>
     <div id="CountMsg">倒计时还有：<strong id="RemainD"></strong><strong id="RemainH">XX</strong>时<strong id="RemainM">XX</strong>分<strong id="RemainS">XX</strong>秒</div>
     </body>
-    </html>
-    
-    
-    
+    </html>  
 ## 效果预览
 [倒计时程序](F:\Github\zhuchuanliang.github.io\tools\倒计时.html "倒计时程序")    
