@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: demo
 title: 倒计时小程序
 categories: tools
 description: JSP倒计时小程序
