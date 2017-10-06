@@ -6,10 +6,11 @@ description: JSP倒计时小程序
 keywords: JSP
 ---
 
-## 源码
+## 源码  
 
-    ```html
-  <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+   ```
+    <html>
+    <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <head>
     <title> 倒计时效果 </title>
     <script language="JavaScript">
@@ -39,16 +40,16 @@ keywords: JSP
     </body>
     </html>
     
-    
+    ```
     
     
 	
 
-```
+
     
     
     
     
 	
 ## 效果预览
-[倒计时程序](F:\Github\zhuchuanliang.github.io\tools\倒计时.html "倒计时程序")
+[倒计时程序](https://zhuchuanliang.github.io/tools/1.html "倒计时程序")
