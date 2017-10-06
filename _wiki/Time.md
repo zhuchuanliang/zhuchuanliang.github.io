@@ -8,12 +8,7 @@ keywords: JSP
 
 ## 源码  
 
-   ```
-    <html>
-    <!doctype html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-    <head>
-    <title> 倒计时效果 </title>
-    <script language="JavaScript">
+   ```javascript
     var startTime = new Date();
     var EndTime=startTime.getTime()+20*60*1000;
     function GetRTime(){
@@ -32,15 +27,7 @@ keywords: JSP
     setTimeout("GetRTime()",1000);
     }
     window.onload=GetRTime;
-    
-    </script>
-    </head>
-    <body>
-    <div id="CountMsg">倒计时还有：<strong id="RemainD"></strong><strong id="RemainH">XX</strong>时<strong id="RemainM">XX</strong>分<strong id="RemainS">XX</strong>秒</div>
-    </body>
-    </html>
-    
-    ```
+```
     
     
 	
