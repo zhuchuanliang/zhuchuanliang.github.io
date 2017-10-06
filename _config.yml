@@ -36,8 +36,8 @@ navs:
     label: Type
 
   -
-    href: /wiki/
-    label: Wiki
+    href: /demo/
+    label: Demo
 
   -
     href: /links/
