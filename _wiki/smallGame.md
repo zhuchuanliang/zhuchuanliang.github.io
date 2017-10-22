@@ -545,4 +545,4 @@ function jixu(){
     
 	
 ## 效果预览
-[微信打飞机小游戏](https://zhuchuanliang.github.io/wiki/index.html "微信打飞机小游戏")
+[微信打飞机小游戏](https://zhuchuanliang.github.io/wiki/微信打飞机.html "微信打飞机小游戏")
