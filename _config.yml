@@ -95,8 +95,8 @@ gitment:
     owner: zhuchuanliang
     repo: zhuchuanliang.github.io
     oauth:
-        client_id: 62f316a4225067066a98
-        client_secret: fc884e60b1852766b6716d454b69792cdd0817d9
+        client_id: 4f96af9d256d13d47065
+        client_secret: 97acf516596e1464aaf21a1faae8ad1a92eaf11f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhuchuanliang
