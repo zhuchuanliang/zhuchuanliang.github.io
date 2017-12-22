@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 机器学习顶级论文及实现（附地址及简介）
-categories: Machine Learning
+categories: Machine-Learning
 description:  机器学习顶级论文及实现（附地址及简介）
 keywords: 机器学习
 ---
